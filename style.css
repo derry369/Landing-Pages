@@ -1,0 +1,147 @@
+body {
+    height: 100vh;
+}
+
+
+
+.Sect1,
+.footer {
+    background-color: #1f2937;
+}
+
+.awesome {
+    font-size: 48px; 
+    font-weight: bolder; 
+    color: #f9faf8;
+}
+
+.subtext,
+.Hlink {
+    font-size: 18px;
+    color:  #e5e7eb;
+    text-decoration: none;
+}
+
+.Hlinks {
+    display: flex;
+    gap: 15px;
+}
+
+.logo {
+    font-size: 24px;
+    color:  #f9faf8;
+}
+
+.SubCont {
+    margin: 0px 300px 50px 300px;
+}
+
+.Sect1 {
+    height: 263px;
+}
+
+.block1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.intro {
+    max-width: 500px;
+}
+
+.block2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#I1 {
+    width: 250px;
+    height: 130px;
+}
+
+
+.info {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.pics {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.p1,
+.p2,
+.p3,
+.p4 {
+    max-width: 150px;
+}
+
+.I2 {
+    width: 75px;
+    height: 80px;
+}
+
+
+
+.Sect3 {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.subscript {
+    text-align: end;
+    font-weight: bolder;
+}
+
+.nill {
+    max-width: 800px;
+    margin: 60px auto 60px auto;
+}
+
+.blue-sect {
+    background-color: #3882f6;
+    display: flex;
+    width: 650px;
+    gap: 120px;
+    padding: 20px;
+    border-radius: 6px;
+    color: #e5e7eb;
+}
+
+.Sect4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+
+.arc {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border: 2px solid #f9faf8;
+    border-radius: 6px;
+}
+
+
+.footer {
+    height: 56px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
